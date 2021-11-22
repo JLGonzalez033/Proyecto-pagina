@@ -1,0 +1,1169 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="title" content="Estafeta | Mejor estaf&#233;talo">
+    <meta name="description" content="Somos el socio log&#237;stico que necesitas para hacer crecer tu empresa">
+    
+            <meta name="author" content="Estafeta">
+
+        
+    <meta name="keywords" content="Estafeta, estafetar, log&#237;stica, mensajer&#237;a, paqueter&#237;a, env&#237;os, env&#237;o, paquetes, servicios de mensajer&#237;a y paqueter&#237;a, env&#237;os internacionales, tu socio log&#237;stico, crecer tu empresa">
+    <link rel="icon" href="/favicon.ico">
+
+
+
+
+    <title>Estafeta | Mejor estaf&#233;talo</title>
+    <!--CSS -->
+	<link href="https://disenoweb.estafeta.com/aos/css/aos.css" rel="stylesheet">
+    <link href="/css/main.min.css?v=az-fEDoPmbTTgLDsoIAYtqbaICnupY6GJk8DN-UCXvs1" rel="stylesheet"/>
+
+    <!-- <link href="css/main.css" rel="stylesheet"> -->
+    <!-- IE10 viewport -->
+    
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-6222129-2"></script>
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+
+  		gtag('config', 'UA-6222129-2');
+	</script>
+	<!-- END google analytics -->
+	
+	<!-- Facebook Pixel Code -->
+	<script>
+
+		!function(f,b,e,v,n,t,s)
+
+		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+		n.queue=[];t=b.createElement(e);t.async=!0;
+
+		t.src=v;s=b.getElementsByTagName(e)[0];
+
+		s.parentNode.insertBefore(t,s)}(window,document,'script',
+
+		'https://connect.facebook.net/en_US/fbevents.js');
+
+		fbq('init', '3153938891298821'); 
+
+		fbq('track', 'PageView');
+
+	</script>
+
+	<noscript>
+
+		<img height="1" width="1" 
+
+src="https://www.facebook.com/tr?id=3153938891298821&ev=PageView
+
+&noscript=1"/>
+
+	</noscript>
+
+<!-- End Facebook Pixel Code -->
+	
+    <!-- -->
+
+</head>
+<body>
+    
+<style>
+    .prehome-body iframe {
+        height: 600px;
+    }
+</style>
+
+<div class="modal fade modal preHome" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content prehome">
+            <div class="modal-header prehome-head">
+                <button type="button" class="close cerrar-prehome" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body prehome-body">
+<img src="/-/media/Images/Estafeta/Prehome/2021/prehomeLealtad2.png?h=600&amp;la=es&amp;w=800&amp;hash=C40910DD6C186E937DFF996562AD041BA9DCC856" alt="Envía y Gana con Estafeta" width="800" height="600" style="margin: 0px 0px" title="Envía y Gana con Estafeta" DisableWebEdit="True" />            </div>
+        </div>
+    </div>
+</div>
+    <!--header-->
+    <header>
+        <!--modulo navegacion-->
+        <nav class="navbar navbar-default navbar-fixed-top">
+             
+<div class="fullContainer graycolorStr">
+    <div class="container">
+        <div class="col-lg-6 col-md-6 col-xs-6">
+<a href="https://www.facebook.com/estafetamx?ref=hl" rel="noopener noreferrer" class="iconsRRSS grayMedium" target="_blank">                        <i class="fa fa-facebook" aria-hidden="true"></i>
+</a><a href="https://twitter.com/estafeta" rel="noopener noreferrer" class="iconsRRSS grayMedium" target="_blank">                        <i class="fa fa-twitter" aria-hidden="true"></i>
+</a><a href="https://www.youtube.com/user/estafetamx" rel="noopener noreferrer" class="iconsRRSS grayMedium" target="_blank">                        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+</a><a href="https://www.linkedin.com/company/estafeta-mexicana" rel="noopener noreferrer" class="iconsRRSS grayMedium" target="_blank">                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+</a><a href="https://www.instagram.com/estafetamx/" rel="noopener noreferrer" class="iconsRRSS grayMedium" target="_blank">                        <i class="fa fa-instagram" aria-hidden="true"></i>
+</a>
+			<div data-calixta="entry-points"></div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 pull-right">
+            <div class="col-lg-4 col-md-3 col-xs-5 pull-right idioma">
+                <a href="/es">
+                    </a>
+                <a href="/en">
+                    </a>
+            </div>
+            <div class="input-group col-lg-8 col-md-6 col-xs-7 pull-right">
+                <input id="searchBox" type="text" class="form-control input-sm" placeholder="Buscar" value=""/>
+                <span class="input-group-btn">
+                    <button id="searchBtn" class="btn btn-info btn-sm" type="button">
+                        <i class="glyphicon glyphicon-search"></i>
+                    </button>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a href="/"><img src="/-/media/Images/Estafeta/Brand/logotipo-estafeta.svg?la=es&amp;hash=8921A2FC9CD511FCE66DB199D611F5205497DF86" border="0" alt="Estafeta | Mejor estafétalo" style="margin: 0px 0px" /></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse navbar-right">
+        <ul class="nav navbar-nav">
+                <!-- Menu Navigation can have three main types of items
+                    Menu Item (link to internal or external url)
+                    Main Section
+                    Internal Page
+                -->
+                        <!-- If MenuItem or InternalPage just render the link -->
+                            <li class="active ">
+                                <a href="/">Inicio</a>
+                            </li>
+                        <!-- If MenuItem or InternalPage just render the link -->
+                            <!-- Check how many columns we have
+                                -->
+                            <li class="  dropdown ">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Con&#243;cenos <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown-menu dropdown-menu-left">
+                                    
+                                    <!-- Si hay más de una columna agregar col  -->
+
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Conocenos/Nuestro-Proposito">
+                <i class="fa fa-plus" aria-hidden="true"></i> Nuestro Prop&#243;sito
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Conocenos/Historia">
+                <i class="fa fa-plus" aria-hidden="true"></i> Historia
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li class="">
+            <a href="https://uneteaestafeta.com/" rel="noopener noreferrer" target="_blank">
+            <i class="fa fa-plus" aria-hidden="true"></i> &#218;nete a Estafeta
+            </a>
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Conocenos/Responsabilidad-Social">
+                <i class="fa fa-plus" aria-hidden="true"></i> Responsabilidad Social
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Conocenos/Identidad-Estafeta">
+                <i class="fa fa-plus" aria-hidden="true"></i> Identidad Estafeta
+            </a>
+
+            
+        </li>
+        <li class="divider visible-xs "></li>
+
+                                </ul>
+                            </li>
+                        <!-- If MenuItem or InternalPage just render the link -->
+                            <!-- Check how many columns we have
+                                -->
+                            <li class="  dropdown dropdown-large">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Servicios <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown-menu dropdown-menu-large">
+                                    
+                                    <!-- Si hay más de una columna agregar col  -->
+                                            <li class="col-sm-4">
+                                                <ul>
+                                                    
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="dropdown-header ">Mensajer&#237;a y Paqueter&#237;a</li>
+
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li  class=""><strong>Nacional</strong></li>
+
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="divider"></li>
+        <li  class="">
+            <a href="/Servicios/MYP/Nacional/Horarios-garantizados">
+                <i class="fa fa-plus" aria-hidden="true"></i> Horarios garantizados
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/MYP/Nacional/Dia-siguiente">
+                <i class="fa fa-plus" aria-hidden="true"></i> D&#237;a siguiente
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/MYP/Nacional/Dos-dias">
+                <i class="fa fa-plus" aria-hidden="true"></i> Dos d&#237;as
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/MYP/Nacional/Terrestre">
+                <i class="fa fa-plus" aria-hidden="true"></i> Terrestre
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/MYP/Nacional/Multiple">
+                <i class="fa fa-plus" aria-hidden="true"></i> Multiple
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/MYP/Nacional/Cuenta-Concentradora">
+                <i class="fa fa-plus" aria-hidden="true"></i> Cuenta Concentradora
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/MYP/Nacional/Servicios-Complementarios">
+                <i class="fa fa-plus" aria-hidden="true"></i> Servicios Complementarios
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+                <li class="divider"></li>
+            <li  class=""><strong>Internacional</strong></li>
+
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="divider"></li>
+        <li  class="">
+            <a href="/Servicios/MYP/Internacional/Exportacion-Global-Expres">
+                <i class="fa fa-plus" aria-hidden="true"></i> Exportaci&#243;n Global Expr&#233;s
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/MYP/Internacional/Exportacion-USA-Economico">
+                <i class="fa fa-plus" aria-hidden="true"></i> Exportaci&#243;n USA Econ&#243;mico
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/MYP/Internacional/Importacion-Expres">
+                <i class="fa fa-plus" aria-hidden="true"></i> Importaci&#243;n Expr&#233;s
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li class="">
+            <a href="http://www.merkalink.com/" rel="noopener noreferrer" target="_blank">
+            <i class="fa fa-plus" aria-hidden="true"></i> Merkalink&#174;
+            </a>
+        </li>
+        <li class="divider visible-xs "></li>
+
+                                                </ul>
+                                            </li>
+                                            <li class="col-sm-4">
+                                                <ul>
+                                                    
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="dropdown-header ">Carga A&#233;rea</li>
+
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="divider"></li>
+        <li  class="">
+            <a href="/Servicios/Carga-Aerea/Carga-Aerea">
+                <i class="fa fa-plus" aria-hidden="true"></i> Carga A&#233;rea
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="dropdown-header ">Carga LTL</li>
+
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="divider"></li>
+        <li  class="">
+            <a href="/Servicios/Carga-LTL/Nacional">
+                <i class="fa fa-plus" aria-hidden="true"></i> Nacional
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/Carga-LTL/Internacional">
+                <i class="fa fa-plus" aria-hidden="true"></i> Internacional
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="dropdown-header ">Freight Forwarding</li>
+
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="divider"></li>
+        <li  class="">
+            <a href="/Servicios/Freight-Forwarding/Freight-Forwarding">
+                <i class="fa fa-plus" aria-hidden="true"></i> Freight Forwarding
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="dropdown-header ">SOLOG</li>
+
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="divider"></li>
+        <li  class="">
+            <a href="/Servicios/SOLOG/Soluciones-Logisticas">
+                <i class="fa fa-plus" aria-hidden="true"></i> Soluciones Log&#237;sticas
+            </a>
+
+            
+        </li>
+        <li class="divider visible-xs "></li>
+
+                                                </ul>
+                                            </li>
+                                            <li class="col-sm-4">
+                                                <ul>
+                                                    
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="dropdown-header ">Sectores Empresariales</li>
+
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="divider"></li>
+        <li  class="">
+            <a href="/Servicios/Sectores-empresariales/Comercio">
+                <i class="fa fa-plus" aria-hidden="true"></i> Comercio
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/Sectores-empresariales/Financiero">
+                <i class="fa fa-plus" aria-hidden="true"></i> Financiero
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/Sectores-empresariales/Manufacturero">
+                <i class="fa fa-plus" aria-hidden="true"></i> Manufacturero
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/Sectores-empresariales/Automotriz">
+                <i class="fa fa-plus" aria-hidden="true"></i> Automotriz
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/Sectores-empresariales/Pharma">
+                <i class="fa fa-plus" aria-hidden="true"></i> Pharma
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/Sectores-empresariales/eCommerce">
+                <i class="fa fa-plus" aria-hidden="true"></i> eCommerce
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/Sectores-empresariales/Pyme">
+                <i class="fa fa-plus" aria-hidden="true"></i> Pyme
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/Sectores-empresariales/Casos-de-exito">
+                <i class="fa fa-plus" aria-hidden="true"></i> Casos de &#233;xito
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="dropdown-header ">Otros Servicios</li>
+
+    <!-- If MenuItem or InternalPage just render the link -->
+            <li class="divider"></li>
+        <li  class="">
+            <a href="/Servicios/Otros-Servicios/AliadosEstafeta">
+                <i class="fa fa-plus" aria-hidden="true"></i> Aliados Estafeta
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/Otros-Servicios/Cargo-por-combustible">
+                <i class="fa fa-plus" aria-hidden="true"></i> Cargo por combustible
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/Otros-Servicios/SeguroOpcional">
+                <i class="fa fa-plus" aria-hidden="true"></i> Seguro Opcional
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/Otros-Servicios/Servicios-Opcionales">
+                <i class="fa fa-plus" aria-hidden="true"></i> Servicios Opcionales
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/Otros-Servicios/Cargos-Adicionales">
+                <i class="fa fa-plus" aria-hidden="true"></i> Cargos Adicionales
+            </a>
+
+            
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li class="">
+            <a href="https://ww2.buzone.com/">
+            <i class="fa fa-plus" aria-hidden="true"></i> Mensajer&#237;a electr&#243;nica
+            </a>
+        </li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Servicios/Otros-Servicios/COD">
+                <i class="fa fa-plus" aria-hidden="true"></i> COD
+            </a>
+
+            
+        </li>
+        <li class="divider visible-xs "></li>
+
+                                                </ul>
+                                            </li>
+
+                                </ul>
+                            </li>
+                        <!-- If MenuItem or InternalPage just render the link -->
+                            <li class=" ">
+                                <a href="/Promociones">Promociones</a>
+                            </li>
+                        <!-- If MenuItem or InternalPage just render the link -->
+                            <!-- Check how many columns we have
+                                -->
+                            <li class="  dropdown dropdown-large">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Atenci&#243;n al Cliente <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown-menu dropdown-menu-large">
+                                    
+                                    <!-- Si hay más de una columna agregar col  -->
+                                            <li class="col-sm-4">
+                                                <ul>
+                                                    
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Atencion-al-Cliente/Como-realizar-un-envio">
+                <i class="fa fa-plus" aria-hidden="true"></i> &#191;C&#243;mo realizar un env&#237;o?
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Atencion-al-Cliente/AdquirirSeguroOpcional">
+                <i class="fa fa-plus" aria-hidden="true"></i> &#191;C&#243;mo adquirir el  Seguro Opcional?
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Atencion-al-Cliente/Articulos-prohibidos">
+                <i class="fa fa-plus" aria-hidden="true"></i> Art&#237;culos prohibidos
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Atencion-al-Cliente/Manual-de-empaque">
+                <i class="fa fa-plus" aria-hidden="true"></i> Manual de empaque
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Atencion-al-Cliente/Glosario-de-terminos">
+                <i class="fa fa-plus" aria-hidden="true"></i> Glosario de t&#233;rminos
+            </a>
+
+            
+        </li>
+        <li class="divider visible-xs "></li>
+
+                                                </ul>
+                                            </li>
+                                            <li class="col-sm-4">
+                                                <ul>
+                                                    
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Atencion-al-Cliente/Preguntas-frecuentes">
+                <i class="fa fa-plus" aria-hidden="true"></i> Preguntas frecuentes
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Atencion-al-Cliente/Confirmaciones-y-excepciones">
+                <i class="fa fa-plus" aria-hidden="true"></i> Confirmaciones y excepciones
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Atencion-al-Cliente/Contrato-de-servicios">
+                <i class="fa fa-plus" aria-hidden="true"></i> Contrato de servicios
+            </a>
+
+            
+        </li>
+        <li class="divider visible-xs "></li>
+
+                                                </ul>
+                                            </li>
+                                            <li class="col-sm-4">
+                                                <ul>
+                                                    
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Atencion-al-Cliente/Generar-un-reporte">
+                <i class="fa fa-plus" aria-hidden="true"></i> &#191;C&#243;mo generar un reporte?
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Atencion-al-Cliente/Rastreo-de-envios">
+                <i class="fa fa-plus" aria-hidden="true"></i> Rastreo de env&#237;os
+            </a>
+
+            
+        </li>
+        <li class="divider  "></li>
+    <!-- If MenuItem or InternalPage just render the link -->
+        <li  class="">
+            <a href="/Atencion-al-Cliente/Indemnizacion">
+                <i class="fa fa-plus" aria-hidden="true"></i> Indemnizaci&#243;n
+            </a>
+
+            
+        </li>
+        <li class="divider visible-xs "></li>
+
+                                                </ul>
+                                            </li>
+
+                                </ul>
+                            </li>
+                        <!-- If MenuItem or InternalPage just render the link -->
+                            <li class=" ">
+                                <a href="/blog">Blog</a>
+                            </li>
+                        <!-- If MenuItem or InternalPage just render the link -->
+                            <li class=" ">
+                                <a href="https://mi.estafeta.com" rel="noopener noreferrer" target="_blank">Mi Estafeta</a>
+                            </li>
+                        <!-- If MenuItem or InternalPage just render the link -->
+                            <li class=" ">
+                                <a href="/Contacto">Contacto</a>
+                            </li>
+
+        </ul>
+</div>
+</div>
+
+        </nav>
+        <!--modulo navegacion-->
+    </header>
+    <!--header-->
+
+    <!--Contenedor principal información-->
+    <section class="">
+        
+
+
+
+
+
+<style>
+    .alertas .scrollbar{
+        overflow-y: auto;
+        height: 100%;
+    }
+
+    .alertas ul {
+        padding-left: 17px;
+    }
+</style>
+
+
+        
+
+<style>
+    
+</style>
+
+<article id="bs-carousel" class="carousel fade-carousel slide" data-ride="carousel" data-interval="8000">
+    <!-- indicadores carrusel -->
+   
+    <ol class="carousel-indicators">
+        <li data-target="#bs-carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#bs-carousel" data-slide-to="1" class=""></li>
+        <li data-target="#bs-carousel" data-slide-to="2" class=""></li>
+    </ol>
+    
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+
+        <div class="item slides active">
+            
+                <div class="slide slide-0" style="background-image: url('https://www.estafeta.com:443/-/media/Images/Estafeta/Banners/2021/SegOpc/backSegOpc.png');"></div>
+                <div class="hero">
+                    <hgroup>
+                        <h1></h1>
+                        <h3></h3>
+                        <div class="col-md-12"><a href="/Servicios/Otros-Servicios/SeguroOpcional"><img alt="Seguro Opcional" width="100%" src="/-/media/Images/Estafeta/Banners/2021/SegOpc/textoBannerSeg.png?w=100%25&amp;la=es&amp;hash=CE95963DA51692A9EC56650D9BEB2CF43C16D70F" /></a></div>
+                    </hgroup>
+                    
+                </div>
+        </div>
+        <div class="item slides ">
+            
+                <div class="slide slide-1" style="background-image: url('https://www.estafeta.com:443/-/media/Images/Estafeta/Banners/2021/lealtad/fondo.png');"></div>
+                <div class="hero">
+                    <hgroup>
+                        <h1></h1>
+                        <h3></h3>
+                        <a href="https://enviayganaconestafeta.com/presentation"><img alt="Envía y Gana con Estafeta" width="100%" src="/-/media/Images/Estafeta/Banners/2021/lealtad/texto.png?la=es&amp;hash=19CF4B299CB960E284A66A2EAFD6CFDF870245FD" /></a>
+                    </hgroup>
+                    
+                </div>
+        </div>
+        <div class="item slides ">
+            
+                <div class="slide slide-2" style="background-image: url('https://www.estafeta.com:443/-/media/Images/Estafeta/Unete/fondoUnete.jpg');"></div>
+                <div class="hero">
+                    <hgroup>
+                        <h1></h1>
+                        <h3></h3>
+                        <a href="https://uneteaestafeta.com/"><img style="margin-top: 60px; width: 130%;" alt="Únete a Estafeta" src="/-/media/Images/Estafeta/Unete/textoUneteNuevo.png?w=130%25&amp;la=es&amp;hash=7FC9DC37EA4F61F78EEF21F1F2B5D2094F34120A" /></a>
+                    </hgroup>
+                    
+                </div>
+        </div>
+    </div>
+    <a class="left carousel-control" href="#bs-carousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#bs-carousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</article>	
+
+<article class="graycolor">
+    <div class="container">
+        <h2 class="col-md-12 text-center">Herramientas</h2>
+        <div class="col-md-12">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <a class="btn-herramientas" href="/Herramientas/Rastreo">
+                    <i class="fa fa-crosshairs" aria-hidden="true"></i>
+                    Rastrear mi env&#237;o
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <a class="btn-herramientas" href="/Herramientas/Cotizar-un-envio">
+                    <i class="fa fa-calculator" aria-hidden="true"></i>
+                    Cotizar un env&#237;o
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <a class="btn-herramientas" href="/Herramientas/Codigo-postal">
+                    <i class="fa fa-map-o" aria-hidden="true"></i>
+                    C&#243;digo postal
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <a class="btn-herramientas" href="/Herramientas/Buscar-una-sucursal">
+                    <i class="fa fa-map-marker" aria-hidden="true"></i>
+                    Buscar una sucursal
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <a class="btn-herramientas" href="/Herramientas/Frecuencias-de-entrega">
+                    <i class="fa fa-calendar" aria-hidden="true"></i>
+                    Frecuencias de entrega
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <a class="btn-herramientas" href="/Facturacion-electronica">
+                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                    Facturaci&#243;n electr&#243;nica
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <a class="btn-herramientas" href="/Herramientas/Complemento-de-Pago">
+                    <i class="fa fa-clipboard" aria-hidden="true"></i>
+                    Complemento de Pago
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <a href="https://tienda.estafeta.com/" rel="noopener noreferrer" class="btn-herramientas" target="_blank">
+                    <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                    Comprar en l&#237;nea
+                    </a>
+                </div>
+                </div>
+
+        <div id="masHerramientas" class="col-md-12 panel-collapse collapse">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <a class="btn-herramientas" href="/Herramientas/Rastreo-Carga-Aerea">
+                    <i class="fa fa-plane" aria-hidden="true"></i>
+                    Estafeta Carga A&#233;rea
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <a href="https://comando.estafeta.com/ComandoWeb/" rel="noopener noreferrer" class="btn-herramientas" target="_blank">
+                    <i class="fa fa-cogs" aria-hidden="true"></i>
+                    Comando Web
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <a href="https://mi.estafeta.com" rel="noopener noreferrer" class="btn-herramientas" target="_blank">
+                    <i class="fa fa-user" aria-hidden="true"></i>
+                    Mi Estafeta
+                    </a>
+                </div>
+                </div>
+        <div class="text-center">
+            <a data-toggle="collapse" data-swap="Menos opciones" href="#masHerramientas" class="mas-opciones btn btn-primary"> M&#225;s opciones</a>
+        </div>
+    </div>
+</article>
+
+
+
+<article class="whitecolor">
+    <div class="container">
+        <div class="col-md-12 owl-carousel owl-theme" data-owl1000-items="4">
+                <div class="col-md-12 item">
+                    <h3 class="titulo-notas text-center">LOG&#205;STICA UNIDA</h3>
+                    <div class="fullContainer modulo-descripcion text-center">
+                        <a href="https://www.estafeta.com/Estafeta-UPS" DisableWebEdit="True"><img src="/-/media/Images/Estafeta/UPSEstafeta/estafetaups.jpg?h=340&amp;la=es&amp;w=480&amp;hash=F8979BB7B140E547F2DAE935E131A669A763E237&amp;hash=F8979BB7B140E547F2DAE935E131A669A763E237" alt="LOGÍSTICA UNIDA" width="480" height="340" style="margin: 0px 0px" title="LOGÍSTICA UNIDA" DisableWebEdit="True" /></a>
+                        <h4>LOG&#205;STICA UNIDA</h4>
+                        <div>&iexcl;Nuestra cobertura, infraestructura y experiencia llevar&aacute;n a tu negocio m&aacute;s all&aacute;!</div>
+                    </div>
+                    <div class="text-center">
+                        <a href="https://www.estafeta.com/Estafeta-UPS" DisableWebEdit="True" class="btn btn-primary">M&#225;s Informaci&#243;n</a>
+                    </div>
+                </div>
+                <div class="col-md-12 item">
+                    <h3 class="titulo-notas text-center">Promociones</h3>
+                    <div class="fullContainer modulo-descripcion text-center">
+                        <a href="/Internacional" DisableWebEdit="True"><img src="/-/media/Images/Estafeta/internacional/2021/internacionalDest.jpg?h=340&amp;la=es&amp;w=480&amp;hash=D9DD42A6D755FE134840C14CF2932AA0197F3CF7&amp;hash=D9DD42A6D755FE134840C14CF2932AA0197F3CF7" alt="Internacional" width="480" height="340" style="margin: 0px 0px" title="Internacional" DisableWebEdit="True" /></a>
+                        <h4>Env&#237;os internacionales</h4>
+                        <div><p>Lleva m&aacute;s all&aacute; tu negocio</p></div>
+                    </div>
+                    <div class="text-center">
+                        <a href="/Internacional" DisableWebEdit="True" class="btn btn-primary">M&#225;s Informaci&#243;n</a>
+                    </div>
+                </div>
+                <div class="col-md-12 item">
+                    <h3 class="titulo-notas text-center">Acciones</h3>
+                    <div class="fullContainer modulo-descripcion text-center">
+                        <a href="/AccionesCOVID19" DisableWebEdit="True"><img src="/-/media/Images/Estafeta/Notas-Destacadas/2020/acciones-estafeta-coronavirus.jpg?h=340&amp;la=es&amp;w=480&amp;hash=3377BE2C8EF8AF43AC4D1B1281E56FCF323605DE&amp;hash=3377BE2C8EF8AF43AC4D1B1281E56FCF323605DE" alt="Estafeta acciones contra el coronavirus" width="480" height="340" style="margin: 0px 0px" title="Estafeta acciones contra el coronavirus" DisableWebEdit="True" /></a>
+                        <h4>Conoce nuestras acciones</h4>
+                        <div>Trabajar en la seguridad de todos, nos mueve</div>
+                    </div>
+                    <div class="text-center">
+                        <a href="/AccionesCOVID19" DisableWebEdit="True" class="btn btn-primary">M&#225;s Informaci&#243;n</a>
+                    </div>
+                </div>
+                <div class="col-md-12 item">
+                    <h3 class="titulo-notas text-center">&#218;nete a Estafeta</h3>
+                    <div class="fullContainer modulo-descripcion text-center">
+                        <a href="https://uneteaestafeta.com/" DisableWebEdit="True"><img src="/-/media/Images/Estafeta/Unete/DestacaUnete.png?h=340&amp;la=es&amp;w=480&amp;hash=D7B46C3E61D63C8373C5379377CC1F472420F478&amp;hash=D7B46C3E61D63C8373C5379377CC1F472420F478" alt="Únete a Estafeta" width="480" height="340" style="margin: 0px 0px" title="Únete a Estafeta" DisableWebEdit="True" /></a>
+                        <h4>Conoce las vacantes que tenemos para ti</h4>
+                        <div></div>
+                    </div>
+                    <div class="text-center">
+                        <a href="https://uneteaestafeta.com/" DisableWebEdit="True" class="btn btn-primary">M&#225;s Informaci&#243;n</a>
+                    </div>
+                </div>
+                <div class="col-md-12 item">
+                    <h3 class="titulo-notas text-center">Sala de Prensa</h3>
+                    <div class="fullContainer modulo-descripcion text-center">
+                        <a href="/Noticias/2021/8/Pacto-Naciones-Unidas" DisableWebEdit="True"><img src="/-/media/Images/Estafeta/News/2021/pacto/notaDest.jpg?h=340&amp;la=es&amp;w=480&amp;hash=D307EC10FCA8020F6C61A9EF454D2C0726E40844&amp;hash=D307EC10FCA8020F6C61A9EF454D2C0726E40844" alt="ESTAFETA SE ADHIERE AL PACTO MUNDIAL DE LAS NACIONES UNIDAS " width="480" height="340" style="margin: 0px 0px" title="ESTAFETA SE ADHIERE AL PACTO MUNDIAL DE LAS NACIONES UNIDAS " DisableWebEdit="True" /></a>
+                        <h4>Durante 2020, la empresa evit&#243; la generaci&#243;n de 1,016 toneladas de di&#243;xido de carbono...</h4>
+                        <div></div>
+                    </div>
+                    <div class="text-center">
+                        <a href="/Noticias/2021/8/Pacto-Naciones-Unidas" DisableWebEdit="True" class="btn btn-primary">M&#225;s informaci&#243;n</a>
+                    </div>
+                </div>
+                <div class="col-md-12 item">
+                    <h3 class="titulo-notas text-center">Estafeta Blog</h3>
+                    <div class="fullContainer modulo-descripcion text-center">
+                        <a href="/Articulos-Blog/2021/ThoseWhoInspire" DisableWebEdit="True"><img src="/-/media/Images/Estafeta/Blog/2021/destacadas/notaDestUltimaMilla.png?h=320&amp;la=es&amp;w=480&amp;hash=37353516CF589CF074EA2815AE577954F8A53AF4&amp;hash=37353516CF589CF074EA2815AE577954F8A53AF4" alt="La última milla crece " width="480" height="320" style="margin: 0px 0px" title="La última milla crece " DisableWebEdit="True" /></a>
+                        <h4>La &#250;ltima milla crece</h4>
+                        <div>El aumento de las compras en l&iacute;nea impuls&oacute; los servicios de...</div>
+                    </div>
+                    <div class="text-center">
+                        <a href="/Articulos-Blog/2021/ThoseWhoInspire" DisableWebEdit="True" class="btn btn-primary">M&#225;s informaci&#243;n</a>
+                    </div>
+                </div>
+                <div class="col-md-12 item">
+                    <h3 class="titulo-notas text-center">Responsabilidad social</h3>
+                    <div class="fullContainer modulo-descripcion text-center">
+                        <a href="/Conocenos/Responsabilidad-Social" DisableWebEdit="True"><img src="/-/media/Images/Estafeta/Responsabilidad-Social/2021/informeRS.png?h=320&amp;la=es&amp;w=480&amp;hash=55C5D8A2228798D8FDAEAA7C08CBCA836034CB6D&amp;hash=55C5D8A2228798D8FDAEAA7C08CBCA836034CB6D" alt="IRS Estafeta" width="480" height="320" style="margin: 0px 0px" title="IRS Estafeta" DisableWebEdit="True" /></a>
+                        <h4>Socialmente Responsables</h4>
+                        <div>Ser socialmente responsable es un compromiso que asumimos...</div>
+                    </div>
+                    <div class="text-center">
+                        <a href="/Conocenos/Responsabilidad-Social" DisableWebEdit="True" class="btn btn-primary">M&#225;s informaci&#243;n</a>
+                    </div>
+                </div>
+                <div class="col-md-12 item">
+                    <h3 class="titulo-notas text-center">C&#243;digo de &#201;tica</h3>
+                    <div class="fullContainer modulo-descripcion text-center">
+                        <a href="/-/media/Files/Estafeta/Downloads/Codigo-etica/Codigo-etica.pdf" rel="noopener noreferrer" DisableWebEdit="True" target="_blank"><img src="/-/media/Images/Estafeta/Home/Notas/nota-codigo-etica-g.png?h=340&amp;la=es&amp;w=480&amp;hash=62142D9205B81B13DE9F984C21F8335D27D53AFA&amp;hash=62142D9205B81B13DE9F984C21F8335D27D53AFA" alt="Código de Ética" width="480" height="340" style="margin: 0px 0px" title="Código de Ética" DisableWebEdit="True" /></a>
+                        <h4>C&#243;digo de &#201;tica</h4>
+                        <div><p>Este C&oacute;digo de &Eacute;tica contiene los lineamientos generales de conducta.</p></div>
+                    </div>
+                    <div class="text-center">
+                        <a href="/-/media/Files/Estafeta/Downloads/Codigo-etica/Codigo-etica.pdf" rel="noopener noreferrer" DisableWebEdit="True" class="btn btn-primary" target="_blank">M&#225;s Informaci&#243;n</a>
+                    </div>
+                </div>
+        </div>
+    </div>
+</article>
+
+    </section>
+    <!--Contenedor principal información-->
+    <!--Footer de sitio-->
+    <footer>
+        <!--shortcuts navegación footer-->
+<div class="shortcuts">
+    <div class="container">
+        <div class="col-md-12">
+            <ul>
+
+
+                    <li class="col-md-2">
+                        <a href="/Privacidad">Aviso de privacidad</a>
+                    </li>
+                    <li class="col-md-2">
+                        <a href="/Noticias">Sala de Prensa</a>
+                    </li>
+                    <li class="col-md-2">
+                        <a href="https://uneteaestafeta.com/">&#218;nete a Estafeta</a>
+                    </li>
+                    <li class="col-md-2">
+                        <a href="https://mi.estafeta.com/" rel="noopener noreferrer" target="_blank">Mi Estafeta</a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--shortcuts navegación footer--><div class="container">
+    <div class="col-md-7 col-sm-6 col-xs-12 alinear-izq">
+        <div class="col-md-12">
+            <img src="/-/media/Images/Estafeta/Brand/logotipo-estafeta-bl.svg?la=es&amp;hash=354EFF4F28470A351138653CCE6BEA14060C5720" alt="Estafeta tu socio logístico" style="margin: 0px 0px" />
+        </div>
+        <p class="telcall">Ll&#225;manos: 55 52708300 &#243; 800 (3782338)<br>
+		<div data-calixta="entry-points" class="iconWhatsFoot"></div></p>
+        <div class="legal-estafeta"><p>Todos los derechos reservados Copyright &copy; 1996-2016 Estafeta Mexicana, S.A. de C.V. Av. Jos&eacute; Vasconcelos no. 105, Piso 4, Col. Hip&oacute;dromo Condesa, Alcald&iacute;a Cuauht&eacute;moc, C.P. 06170, M&eacute;xico, CDMX</p></div>
+    </div>
+    <div class="col-md-5 col-sm-6 col-xs-12 alinear-der">
+        <div class="col-md-12">
+            <h4>Descarga nuestra aplicaci&#243;n</h4>
+			<div class="col-md-4 appIcons">
+            <a href="https://itunes.apple.com/mx/app/estafeta-movil/id586035594?mt=8"><img src="/-/media/Images/Estafeta/App-Stores/app-store.svg?la=es&amp;hash=9C9E0EBC5576BA9CDE47A6E8E8BADE10D6B6DC54&amp;hash=9C9E0EBC5576BA9CDE47A6E8E8BADE10D6B6DC54" alt="Estafeta disponible en App Store" style="margin: 0px 0px" /></a>
+			</div>
+			<div class="col-md-4 appIcons">
+            <a href="https://play.google.com/store/apps/details?id=com.estafeta.estafetamovilv1"><img src="/-/media/Images/Estafeta/App-Stores/google-play.svg?la=es&amp;hash=D651C9817FCDA43AEA6997822072830AA75DA940&amp;hash=D651C9817FCDA43AEA6997822072830AA75DA940" alt="Estafeta disponible en Play Store" style="margin: 0px 0px" /></a>
+			</div>
+			<div class="col-md-4 appIcons">
+			<a href="https://appgallery.cloud.huawei.com/ag/n/app/C102739749" target="_blank"><img src="https://www.estafeta.com/-/media/Images/Estafeta/App-Stores/huaweiconFn.png" width="100%" alt="Huawei app gallery"/></a>
+			</div>
+        </div>
+    </div>
+</div>
+    </footer>
+    <!--Footer de sitio-->
+    <script src="/js/jquery-2.2.3.min.js" type="text/javascript"></script>
+    <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/js/videos.js" type="text/javascript"></script>
+	<script src="https://disenoweb.estafeta.com/aos/js/aos.js" type="text/javascript"></script>
+    <!--script src="js/ie10-viewport-bug-workaround.js" type="text/javascript"></script-->
+    <script src="/js/notas-destacada-carrusel.js" type="text/javascript"></script>
+    <!--Script Auronix-->
+    <script>
+!function(){var w=window,d=document,h=d.getElementsByTagName("head")[0];function 
+fx(){window.CalixtaChat.launch({appName:"estafeta",accessKey:"874290571088180"},
+CalixtaLauncher.init)}s=d.createElement("script"),s.type="text/javascript",l=s.
+cloneNode(),s.src="https://calixtachat.s3.amazonaws.com/v1/calixtachat.min.js",
+l.src="https://auronix-media.s3.amazonaws.com/launchers/estafeta/calixta.min.js",
+h.appendChild(s),h.appendChild(l),w.attachEvent?w.attachEvent("onload",fx):w.
+addEventListener("load",fx,!1)}();
+</script>
+    <!--Script Auronix-->
+	<script type="text/javascript">  
+		$(document).ready(function(){  
+			setTimeout(explode, 5000);  
+		});  
+		function explode(){  
+			$("#fallbackWhats").show();  
+			$("#LPABCButton").attr('style', 'display:none !important');  
+			$("#fallbackWhatsFooter").show();  
+			$("#LPABCButtonfooter").attr('style', 'display:none !important');  
+		}  
+	</script>  
+	<script src="/js/iframeResizer.min.js" type="text/javascript"></script>
+	<script>
+       AOS.init();
+    </script>
+    <script>
+        $(document).ready(function () {
+				setTimeout(explode, 5000);    
+				
+            var owl = $('.owl-carousel');
+            $.each(owl, function (key, value) {
+				
+                var items1000 = $(this).data("owl1000-items") == undefined ? 4 : $(this).data("owl1000-items");
+                var items600 = $(this).data("owl600-items") == undefined ? 2 : $(this).data("owl600-items");
+                var items0 = $(this).data("owl0-items") == undefined ? 1 : $(this).data("owl0-items");
+                $(this).owlCarousel({
+                    margin: 10,
+                    nav: true,
+                    loop: true,
+                    responsive: {
+                        0: {
+                            items: items0
+                        },
+                        600: {
+                            items: items600
+                        },
+                        1000: {
+                            items: items1000
+                        }
+                    }
+                })
+            });
+
+
+
+
+            $(".carousel").on('slide.bs.carousel', function (e) {
+                $(".carousel iframe").attr("src", $(".carousel iframe").attr("src"));
+                if ($('.carousel video').length > 0)
+                    $('.carousel video').get(0).pause();
+            });
+
+            $(".carousel .video .controls.play").on("click", function () {
+                if ($(this).closest(".video").find("video").length > 0){
+                    $(this).closest(".video").find("video")[0].play();
+                }
+            });
+
+            $(".carousel .video .controls.pause").on("click", function () {
+                if ($(this).closest(".video").find("video").length > 0) {
+                    $(this).closest(".video").find("video")[0].pause();
+                }
+            });
+
+            $(".preHome").on('hidden.bs.modal', function (e) {
+                $(".preHome iframe").attr("src", $(".preHome iframe").attr("src"));
+                if ($('.preHome video').length > 0)
+                    $('.preHome video').get(0).pause();
+            });
+
+            $('.preHome').modal('show');
+
+            $('.mas-opciones').on('click', function (e) {
+                var textocambio = $(this);
+                textocambio.data('swap', [textocambio.text(), textocambio.text(textocambio.data('swap'))][0]);
+            });
+
+            $(".cerrar-alerta").click(function () {
+                $(".alertas").animate({
+                    width: "40px",
+                    height: "40px"
+                });
+            });
+
+            $(".abrir-alerta").click(function () {
+                $(".alertas").animate({
+                    width: "100%",
+                    height: "130px"
+                });
+            });
+
+
+            window.api_key = 'AIzaSyAyb-Zipk4h59S0qGHYZMmfN7oZmILfVcs';
+
+            // Start players
+            $('.RYPP').rypp(api_key, {
+                update_title_desc: true, // Default false
+                autoplay: false,
+                autonext: true,
+                loop: false,
+                mute: false,
+                debug: false
+            });
+
+
+
+
+            var resultsPageUrl = "/Resultados";
+            if (resultsPageUrl != "") {
+
+                $("#searchBtn").click(function () {
+
+                    var $searchBox = $("#searchBox");
+
+                    if ($searchBox.length > 0 && $searchBox.val().trim() != "") {
+                        var url = resultsPageUrl + "?q=" + $searchBox.val();
+                        window.location.href = url;
+                    }
+
+                });
+
+                $('#searchBox').keypress(function (e) {
+                    if (e.which == 13) {//Enter key pressed
+                        $('#searchBtn').click();//Trigger search button click event
+                    }
+                });
+            }
+
+			
+			/******Remove class Container from 2 divs before:#miFrameHerramientas******/
+            if ($("#miFrameHerramientas").length ) {
+                var $curr = $( "#miFrameHerramientas" );   
+                $curr = $curr.parent();
+                $curr.removeClass("col-md-12");
+                $curr = $curr.parent();            
+                $curr.removeClass("container");		
+		
+                /******Resize iframe******/
+                iFrameResize({ log: false }, '#miFrameHerramientas')
+            }
+			
+			
+        });
+		function explode(){  
+			$("#fallbackWhats").show();  
+			$("#LPABCButton").attr('style', 'display:none !important');  
+			$("#fallbackWhatsFooter").show();  
+			$("#LPABCButtonfooter").attr('style', 'display:none !important');  
+		}  
+    </script>
+    
+</body>
+</html>
