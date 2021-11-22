@@ -1,0 +1,16 @@
+header{
+    text-align: center;
+}
+#Menus_p{
+    text-align: center;
+}
+#Menusp{
+    margin:50px;
+}
+#Menusp > a{
+    text-decoration: none;
+    color: black;
+}
+img{
+margin: 30px
+}
