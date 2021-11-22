@@ -16,6 +16,10 @@ header{
     text-decoration: none;
     color: black;
 }
-img{
+#AU{
     margin: 25%;
+}
+label{
+    text-align: center;
+    color: rebeccapurple;
 }
