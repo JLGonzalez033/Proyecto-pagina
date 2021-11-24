@@ -2,23 +2,81 @@
     margin: 0px;
     padding: 0px;
 }
+
 body{
     background-color: blue;
 }
+
 /*Titulo*/
-header{
-    text-align: left;
-    margin-bottom: 15px;
-    margin-top: 10px;
-    margin-left: 10px;
+#header{
+    width: 100%;
+    height: 70px;
+    background-color: white;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 5;
+}
+
+
+#header2{
+   
+    background-color: white;
+    height: 70px;
+}
+
+#central{
+    
+    height: 700px;
+    margin-top: 70px;
+    float: left;
+    width: 100%;
+}
+/*Menu Lados*/
+#nav{
+    
+    width: 20%;
+    height: 700px;
+    background-color: darkgrey;
+    float: left;
+}
+#aside{
+    
+    width: 20%;
+    height: 700px;
+    background-color: darkgrey;
+    float: right;
+}
+/*En medio*/
+#section{
+    
+    width: 60%;
+    height:  700px;
+    background-color: darkslateblue;
+    float: left;
+}
+
+#article{
+    background-color: gold;
+    height: 200px;
+    margin-top: 20px;
+}
+#footer{
+    width: 100%;
+    height: 70px;
+    background-color: indigo;
+    
 }
 
 
 /*Menu de hamburguesa*/
 ul{
     list-style: none;
+    position: absolute;
 }
 #MenuBurger li>a{
+    height: 40px;
+    width: 360px;
     background-color: white;
     color: black;
     padding: 10px;
