@@ -3,7 +3,6 @@
     padding: 0px;
 }
 
-
 /*Titulo*/
 header{
     text-align: left;
@@ -29,8 +28,6 @@ header{
     background-color: red;
     color: white;
 }
-
-/*Video Promocional-Quienes somos*/
-#AU{
+img{
     margin: 25%;
 }
