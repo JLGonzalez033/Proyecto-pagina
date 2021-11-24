@@ -17,7 +17,7 @@ header{
 /*Menu de hamburguesa*/
 ul{
     list-style: none;
-  }
+}
 #MenuBurger li>a{
     background-color: white;
     color: black;
@@ -28,7 +28,7 @@ ul{
 }
 #MenuBurger li>a:hover{
     color: black;
-    background-color: #eaeaea;
+    background-color: darkgray;
 }
  #MenuBurger>li{
     float: left;
