@@ -1,15 +1,86 @@
-*{
-    margin: 0px;
-    padding: 0px;
-}
-
-/*Titulo*/
-header{
-    text-align: left;
-    margin-bottom: 15px;
-    margin-top: 10px;
-    margin-left: 10px;
-}
-
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    padding-top: 1rem;
+  }
+  
+  .wrapper {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 1em;
+    background: #f9f9f9;
+    border: 1px solid #c1c1c1;
+  }
+  
+  h3 {
+    margin: 0;
+  }
+  
+  input:focus,
+  textarea:focus {
+    outline: 3px solid gold;
+  }
+  
+  input,
+  textarea,
+  button {
+    width: 100%;
+    border: 1px solid #000;
+  }
+  
+  .wrapper > * {
+    padding: 1em;
+  }
+  
+  form label {
+    display: block;
+  }
+  
+  form p {
+    margin: 0;
+  }
+  
+  button,
+  input,
+  textarea {
+    padding: 1em;
+  }
+  
+  #boton {
+    background: lightgrey;
+    width: 100%;
+    border: 0;
+  }
+  #boton:hover, button:focus {
+    background: gold;
+    outline: 0;
+  }
+  #botonVolver {
+    background: lightgrey;
+    text-align: center;
+    color: black;
+    height: 42px;
+    text-decoration: none;
+  }
+  #botonVolver:hover, button:focus {
+    background: gold;
+    outline: 0;
+  }
+  
+  form {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 20px;
+  }
+  form p {
+    grid-column: 1 / 2;
+  }
+  
+  .input-file-wrapper {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+  }
 
 
