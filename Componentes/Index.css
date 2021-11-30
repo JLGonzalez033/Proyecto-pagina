@@ -24,6 +24,7 @@ body{
     padding: 10px;
     height: 20px;
     background-color: yellow;
+    
 }
 /*------------------------------------*/
 
@@ -37,13 +38,15 @@ body{
     height: 70px;
 }
 /*Menu de hamburguesa*/
+#MenuBurger{
+    width: 100%;
+} 
 ul{
     list-style: none;
     position: absolute;
 }
 #MenuBurger li>a{
     height: 40px;
-    width: 100%;
     background-color: whitesmoke;
     color: black;
     padding: 10px;
@@ -56,12 +59,15 @@ ul{
     background-color: darkgray;
 }
  #MenuBurger>li{
+    width: 20%;
     float: left;
     text-align:center
 
 }
+
 #MenuBurger>li>ul{
     display: none;
+    width: 20%;
 }
 #MenuBurger>li:hover>ul {
     display:block;
