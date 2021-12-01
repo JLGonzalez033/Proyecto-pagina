@@ -27,6 +27,10 @@ body{
     background-color: yellow;
     
 }
+.cajatitulo > a{
+    text-decoration: none;
+    color: black;
+}
 /*------------------------------------*/
 
 
@@ -158,5 +162,6 @@ ul{
 /*Video Promocional-Quienes somos*/
 #AU{
     height: 400px;
+    transition:all .3s;
     
 }

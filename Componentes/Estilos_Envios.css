@@ -26,6 +26,10 @@ body{
     background-color: yellow;
     
 }
+.cajatitulo > a{
+    text-decoration: none;
+    color: black;
+}
 /*------------------------------------*/
 
 
