@@ -131,7 +131,7 @@ ul{
 .cajaEnmedio{
     width: 98%;
     background-color: purple;
-    height: 200px;
+    height: 300px;
     margin-left: 1%;
     margin-right: 1%;
     margin-top: 24px;
@@ -140,13 +140,80 @@ ul{
 .cajaAbajo{
     width: 98%;
     background-color: purple;
-    height: 200px;
+    height: 100px;
     margin-left: 1%;
     margin-right: 1%;
     margin-top: 24px;
-
-
 }
+
+/*Formulario de envios
+/*------------------------------------*/
+.FormularioEnvios{
+    margin-bottom: 3%;
+}
+.FormularioEnvios > label{
+    color: white;
+}
+.FormularioEnvios > #costo{
+    color: white;
+    margin-left: 27%;
+}
+.FormularioEnvios > #costoPrecio{
+    color: green;
+    margin-left: 5%;
+}
+#direccion{
+    color: white;
+}
+#direccionenvio{
+    width: 80%;
+}
+
+.Direccion{
+    margin-bottom: 3%;
+}
+.Num{
+    margin-bottom: 3%;
+}
+#numero{
+    color: white;
+}
+#numerocasa{
+    width: 15%;
+}
+
+.Referencia{
+    margin-bottom: 3%;
+}
+#col{
+    color: white;
+}
+#colonia{
+    margin-left:   12px;
+    width: 40%;
+}
+#cod{
+    color: white;
+    margin-left: 11%;
+}
+#codigopostal{
+    width: 10%;
+}
+
+#Guia{
+    padding:8px 12px;
+    font-family:'Montserrat',sans-serif;border:2px solid #78788c;
+    background: white;
+    color:#5a5a6e;
+    cursor:pointer;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+#Guia:hover{
+    background: green;
+    color:#fff;
+}
+
 /*------------------------------------*/
 
 /*Abajo*/

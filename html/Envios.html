@@ -57,8 +57,51 @@
         <!--En medio--> 
         <div id="section">
             
-            <div class=cajaArriba>Envios</div>
-            <div class=cajaEnmedio></div>
+            <div class=cajaArriba></div>
+            <div class=cajaEnmedio>
+                <wrapper>
+                    <div class="FormularioEnvios">
+                        <label id="ubicacion">Ubicacion de envio:</label>
+                        <select name="transporte">
+    
+                            <option value="1">Janos</option>
+                            
+                            <option value="2">Ascencion</option>
+                            
+                            <option value="3">Colonia Le Báron</option>
+        
+                            <option value="4">Buenaventura</option>
+        
+                            <option value="5">Flores Magon</option>
+    
+                            <option value="6">Envios al Extranjero</option>
+    
+                            </select>
+                            <label id="costo">Costo =</label>
+                            <label id="costoPrecio">0</label>
+                        </div>
+    
+                        <div class="Direccion">
+                            <label id="direccion">Direccion:</label>
+                            <input id="direccionenvio" type="text"></input>
+                        </div>
+    
+                        <div class="Num">
+                            <label id="numero"># de Casa</label>
+                            <input id="numerocasa" type="text"></input>
+                        </div>
+                        
+                        <div class="Referencia">
+                            <label id="col">Colonia:</label>
+                            <input id="colonia" type="text"></input>
+    
+                            <label id="cod">Codigo Postal:</label>
+                            <input id="codigopostal" type="text"></input>
+                        </div>
+                        
+                        <button id="Guia">Generar Guia</button>
+                    </div>
+                </wrapper>
             <div class=cajaAbajo></div>
             
         </div>
