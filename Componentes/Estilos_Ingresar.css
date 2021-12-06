@@ -5,7 +5,9 @@
 
 
 /*Pantalla de Registro*/
-
+body{
+    background:#87e359;margin:0
+}
 .form{
     
     width:340px;height:330px;background:#e6e6e6;
@@ -75,7 +77,18 @@ div{
     border-radius:6px;font-size:13px;
     box-shadow:10px 10px 40px -14px #000;
 }
-span{
-    margin:0 60px 0 15px;
+#registrto{
+    text-decoration: none;
+    color: white;
+}
+label{
+    margin-left: 4%;
+}
+
+#registrarse > a{
+    text-decoration: none;
+    color: orange;
+    text-align: center;
+    margin-left: 20%;
 }
 

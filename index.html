@@ -14,18 +14,18 @@
    
     <div id="header">
         <div class=cajatitulo>NorteLogistica</div>
+        <div class="inicioS">
+            <label id="iniciosesion">
+                <a href="./html/Ingresar.html">Iniciar Sesion</a>
+            </label>
+        </div>
+        
     </div>
+
 <!--Lista de cosas-->
     <div id="header2">    
                     
         <ul id="MenuBurger">
-            <li>
-                <a>Iniciar sesion</a>
-                <ul>
-                    <li><a href="./html/Ingresar.html">Ingresar</a></li>
-                    <li><a href="./html/Registrarse.html">Resgistrarse</a></li>
-                </ul>
-            </li>
             <li>
                 <a href="./html/SobreNosotros.html">Sobre Nosotros</a>
             </li>
@@ -33,7 +33,7 @@
                 <a>Tipos de servicios</a>
                 <ul>
                     <li><a href="./html/Envios.html">Envios</a></li>
-                    <li><a href="./html/Devoluciones.html">Devoluciones</a></li>
+                    <!--<li><a href="./html/Devoluciones.html">Devoluciones</a></li>-->
                     <li><a href="./html/Rastreo.html">Rastreo</a></li>
                 </ul>
             </li>
@@ -59,7 +59,27 @@
             
             <div class=cajaArriba></div>
             <div class=cajaEnmedio></div>
-            <div class=cajaAbajo></div>
+            <div class=cajaAbajo>
+                <div class="wrapper">
+                    <h3>Rastreo</h3>
+                    <form action="">
+                      <p>
+                        <label for="">Numero de guia</label>
+                        <input type="text">
+                      </p>
+                     <!--Codigo para subir archivos-->
+                    <!--
+                      <p class="input-file-wrapper">
+                        <label for="upload">Upload your photo</label>
+                        <input type="file" name="" id="upload">
+                      </p>
+                    -->
+                      <p>
+                        <button id="boton">Rastrear</button>
+                      </p>
+                    </form>
+                  </div>
+            </div>
             
         </div>
         

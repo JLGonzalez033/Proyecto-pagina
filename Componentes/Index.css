@@ -26,8 +26,20 @@ body{
     background-color: yellow;
     
 }
+.inicioS{
+    float: right;
+    margin-left: 80%;
+    margin-top: 10px;
+    width: 5%;
+    padding: 10px;
+    height: 20px;
+}
+#iniciosesion > a{
+    text-decoration: none;
+    color: orange;
+    text-align: center;
+}
 /*------------------------------------*/
-
 
 
 /*Listas y Botones*/
@@ -165,7 +177,80 @@ ul{
 }
 /*------------------------------------*/
 
+/*Rastreo*/
+  /*-------------------------------------*/
+  .wrapper {
+    width: 90%;
+    height: 83%;
+    margin: 0 auto;
+    padding: 1em;
+    background: #f9f9f9;
+    border: 1px solid #c1c1c1;
+  }
+  
+  h3 {
+    margin: 0;
+  }
+  
+  input:focus, textarea:focus {
+    outline: 3px solid gold;
+  }
+  
+  input, textarea, button {
+    width: 155%;
+    border: 1px solid #000;
+  }
+  
+  .wrapper > * {
+    padding: 1em;
+  }
+  
+  form label {
+    display: block;
+  }
+  
+  form p {
+    margin: 0;
+  }
+  
+  button,
+  input,
+  textarea {
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 100%;
+    padding: .5em;
+  }
+  
+  #boton {
+    background: lightgrey;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 100%;
+    border: 0;
+  }
+  #boton:hover, button:focus {
+    background: gold;
+    outline: 0;
+  }
+ 
+  
+  form {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 20px;
+  }
+  form p {
+    grid-column: 1 / 2;
+  }
+  
+  .input-file-wrapper {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+  }
 
-
+  body{
+    background-color: black;
+}
 
 
