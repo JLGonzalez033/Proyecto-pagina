@@ -204,6 +204,10 @@ ul{
     width: 10%;
 }
 
+#servd{
+    color: white;
+}
+
 #Guia{
     padding:8px 12px;
     font-family:'Montserrat',sans-serif;border:2px solid #78788c;
