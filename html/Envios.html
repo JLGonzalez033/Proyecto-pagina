@@ -49,7 +49,11 @@
         <!--En medio--> 
         <div id="section">
             
-            <div class=cajaArriba></div>
+            <div class=cajaArriba>
+                   <img src="../Imagenes/Envios.gif">
+            </div>
+
+
             <div class=cajaEnmedio>
                 <wrapper>
                     <div class="FormularioEnvios">
@@ -80,7 +84,7 @@
     
                         <div class="Num">
                             <label id="numero"># de Casa</label>
-                            <input id="numerocasa" type="text"></input>
+                            <input id="numerocasa" type="number"></input>
                         </div>
                         
                         <div class="Referencia">
@@ -91,18 +95,28 @@
                             <input id="codigopostal" type="text"></input>
                         </div>
 
-                        <div>
+                        <div id="domi">
                             <label id="servd">Servicio a domicilio:</label>
                             <input type="checkbox"></input>
                         </div>
+
+                        <div>
+                            <label id="dimen">Ingrese las dimenciones del paquete</label>
+                            <label id="anch">Ancho</label>
+                            <input id="ancho" type="number"></input>
+                            <label id="alt">x Alto</label>
+                            <input id="alto" type="number"></input>
+                        </div>
                         
-                        <button id="Guia">Generar Guia</button>
-                        <button id="GuiaImp">Guia Impresa</button>
+                        <div>
+                            <button id="Guia">Generar Guia</button>
+                            <button id="GuiaImp">Guia Impresa</button>
+                        </div>
+                        
                     </div>
-                </wrapper>
-            <div class=cajaAbajo></div>
-            
-        </div>
+                </wrapper>            
+            </div>
+        
         
         <!--Derecha-->
         <div id="aside"></div>
