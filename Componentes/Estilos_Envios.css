@@ -144,17 +144,20 @@ img{
 
 /*Formulario de envios
 /*------------------------------------*/
-.FormularioEnvios, .Direccion, .Num, .Referencia, #domi{
+.FormularioEnvios, .Direccion, .Num, .Referencia, #domi, #dimen{
     margin-bottom: 3%;
 }
-#ubicacion, #direccion, #numero, #col, #servd, #dimen, #anch, #alt {
-    color: black;
+#dire1, #dire2, #dimen{
+    margin-bottom: 10px;
+    border: 2px solid gray;
 }
-.FormularioEnvios > #costo{
+
+
+#costo{
     color: black;
-    margin-left: 27%;
+    margin-left: 25%;
 }
-.FormularioEnvios > #costoPrecio{
+#costoPrecio{
     color: green;
     margin-left: 5%;
 }
@@ -242,8 +245,7 @@ img{
     color:#5a5a6e;
     cursor:pointer;
     margin-top: 10%;
-    margin-right: 25%;
-    float: right;
+
 }
 
 #GuiaImp:hover{

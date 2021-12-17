@@ -25,10 +25,11 @@
             <li>
                 <a>Tipos de servicios</a>
                 <ul>
-                    <li><a>Envios</a></li>
+                    
                     <li><a href="./Rastreo.html">Rastreo</a></li>
                 </ul>
             </li>
+            <li><a>Envios</a></li>
             <li>
                 <a href="./Contactanos.html">Contactanos</a>
             </li>
@@ -57,27 +58,38 @@
             <div class=cajaEnmedio>
                 <wrapper>
                     <div class="FormularioEnvios">
-                        <label id="ubicacion">Ubicacion de envio:</label>
-                        <select name="transporte">
-    
-                            <option value="1">Janos</option>
-                            
-                            <option value="2">Ascencion</option>
-                            
-                            <option value="3">Colonia Le Báron</option>
-        
-                            <option value="4">Buenaventura</option>
-        
-                            <option value="5">Flores Magon</option>
-    
-                            <option value="6">Envios al Extranjero</option>
-    
-                            </select>
-                            <label id="costo">Costo =</label>
-                            <label id="costoPrecio">0</label>
+
+                        <!--Direccion de recoleccion-->
+                        <div id="dire1">
+                            <label>Direccion de recolecion:</label>
                         </div>
     
                         <div class="Direccion">
+                            
+                            <label id="direccion">Direccion:</label>
+                            <input id="direccionenvio" type="text"></input>
+                        </div>
+    
+                        <div class="Num">
+                            <label id="numero"># de Casa</label>
+                            <input id="numerocasa" type="number"></input>
+                        </div>
+                        
+                        <div class="Referencia">
+                            <label id="col">Colonia:</label>
+                            <input id="colonia" type="text"></input>
+    
+                            <label id="cod">Codigo Postal:</label>
+                            <input id="codigopostal" type="text"></input>
+                        </div>
+
+                        <!--Direccion de envio-->
+                        <div id="dire2">
+                            <label>Direccion de envio</label>
+                        </div>
+    
+                        <div class="Direccion">
+                            
                             <label id="direccion">Direccion:</label>
                             <input id="direccionenvio" type="text"></input>
                         </div>
@@ -100,24 +112,29 @@
                             <input type="checkbox"></input>
                         </div>
 
-                        <div>
-                            <label id="dimen">Ingrese las dimenciones del paquete</label>
+                        <div id="dimen">
+                            <label>Ingrese las dimenciones del paquete</label>  
+                        </div>
+                        <div id="dimensiones">
                             <label id="anch">Ancho</label>
                             <input id="ancho" type="number"></input>
                             <label id="alt">x Alto</label>
                             <input id="alto" type="number"></input>
+                            <label id="alt">x Largo</label>
+                            <input id="alto" type="number"></input>
                         </div>
                         
                         <div>
+                            <label id="costo">Costo =</label>
+                            <label id="costoPrecio">0</label>
                             <button id="Guia">Generar Guia</button>
-                            <button id="GuiaImp">Guia Impresa</button>
                         </div>
                         
                     </div>
                 </wrapper>            
             </div>
         
-        
+        </div>
         <!--Derecha-->
         <div id="aside"></div>
 
