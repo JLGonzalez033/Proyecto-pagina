@@ -14,6 +14,12 @@
         <div class=cajatitulo>
             <a href="../index.html">NorteLogistica</a>
         </div>
+
+        <div class="inicioS">
+            <label id="iniciosesion">
+                <a href="./html/Ingresar.html">Iniciar Sesion</a>
+            </label>
+        </div>
     </div>
  <!--Lista de cosas-->
     <div id="header2">    
@@ -25,11 +31,10 @@
             <li>
                 <a>Tipos de servicios</a>
                 <ul>
-                    
-                    <li><a href="./Rastreo.html">Rastreo</a></li>
+                    <li><a>Envios</a></li>
                 </ul>
             </li>
-            <li><a>Envios</a></li>
+            <li><a href="./Rastreo.html">Rastreo</a></li>
             <li>
                 <a href="./Contactanos.html">Contactanos</a>
             </li>
@@ -50,9 +55,6 @@
         <!--En medio--> 
         <div id="section">
             
-            <div class=cajaArriba>
-                   <img src="../Imagenes/Envios.gif">
-            </div>
 
 
             <div class=cajaEnmedio>
@@ -83,6 +85,11 @@
                             <input id="codigopostal" type="text"></input>
                         </div>
 
+                        <div id="domi">
+                            <label id="servd">Servicio a domicilio:</label>
+                            <input type="checkbox"></input>
+                        </div>
+
                         <!--Direccion de envio-->
                         <div id="dire2">
                             <label>Direccion de envio</label>
@@ -107,11 +114,6 @@
                             <input id="codigopostal" type="text"></input>
                         </div>
 
-                        <div id="domi">
-                            <label id="servd">Servicio a domicilio:</label>
-                            <input type="checkbox"></input>
-                        </div>
-
                         <div id="dimen">
                             <label>Ingrese las dimenciones del paquete</label>  
                         </div>
@@ -120,8 +122,8 @@
                             <input id="ancho" type="number"></input>
                             <label id="alt">x Alto</label>
                             <input id="alto" type="number"></input>
-                            <label id="alt">x Largo</label>
-                            <input id="alto" type="number"></input>
+                            <label id="larg">x Largo</label>
+                            <input id="largo" type="number"></input>
                         </div>
                         
                         <div>
@@ -129,11 +131,9 @@
                             <label id="costoPrecio">0</label>
                             <button id="Guia">Generar Guia</button>
                         </div>
-                        
                     </div>
                 </wrapper>            
             </div>
-        
         </div>
         <!--Derecha-->
         <div id="aside"></div>

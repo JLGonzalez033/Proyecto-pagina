@@ -26,6 +26,20 @@
   text-decoration: none;
     color: black;
 }
+
+.inicioS{
+  float: right;
+  margin-left: 80%;
+  margin-top: 10px;
+  width: 5%;
+  padding: 10px;
+  height: 20px;
+}
+#iniciosesion > a{
+  text-decoration: none;
+  color: orange;
+  text-align: center;
+}
 /*------------------------------------*/
 
 
@@ -214,7 +228,7 @@ ul{
 .cajaAbajo{
     width: 98%;
     background-color: whitesmoke;
-    height: 200px;
+  
     margin-left: 1%;
     margin-right: 1%;
     margin-top: 24px;
@@ -225,7 +239,7 @@ ul{
 /*------------------------------------*/
 .lineadeltiempo > li{
   margin: 8%;
-  
+  position: relative;
 }
 
 
