@@ -1,0 +1,281 @@
+*{
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Titulo*/
+/*------------------------------------*/
+#header{
+    width: 100%;
+    height: 70px;
+    background-color: whitesmoke;
+    
+    
+}
+.cajatitulo{
+    float: left;
+    margin-left: 1%;
+    margin-top: 10px;
+    width: 5%;
+    padding: 10px;
+    height: 20px;
+    background-color: yellow;
+    
+}
+.cajatitulo > a{
+    text-decoration: none;
+    color: black;
+}
+
+.inicioS{
+    float: right;
+    margin-left: 80%;
+    margin-top: 10px;
+    width: 5%;
+    padding: 10px;
+    height: 20px;
+}
+#iniciosesion > a{
+    text-decoration: none;
+    color: orange;
+    text-align: center;
+}
+/*------------------------------------*/
+
+
+
+/*Listas y Botones*/
+/*------------------------------------*/
+#header2{
+    border-bottom: 1px solid black;
+    background-color: whitesmoke;
+    height: 70px;
+}
+/*Menu de hamburguesa*/
+#MenuBurger{
+    width: 100%;
+} 
+ul{
+    list-style: none;
+    position: absolute;
+}
+#MenuBurger li>a{
+    height: 40px;
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+  
+}
+#MenuBurger li>a:hover{
+    color: black;
+    background-color: darkgray;
+}
+ #MenuBurger>li{
+    width: 20%;
+    float: left;
+    text-align:center
+
+}
+
+#MenuBurger>li>ul{
+    display: none;
+    width: 20%;
+}
+#MenuBurger>li:hover>ul {
+    display:block;
+}
+/*------------------------------------*/
+
+
+
+
+/*Central*/
+/*------------------------------------*/
+#central{
+    height: 700px;
+}
+
+
+/*Menu Lados*/
+/*------------------------------------*/
+
+
+/*Izquierda*/
+#nav{
+    
+    width: 20%;
+    height: 700px;
+    background-color: darkgrey;
+    float: left;
+}
+/*Derecha*/
+#aside{
+    
+    width: 20%;
+    height: 700px;
+    background-color: darkgrey;
+    float: right;
+}
+/*------------------------------------*/
+
+
+
+/*En medio*/
+/*------------------------------------*/
+#section{
+    
+    width: 60%;
+    height:  700px;
+    background-color: whitesmoke;
+    float: left;
+}
+
+.cajaArriba{
+    width: 98%;
+    background-color: whitesmoke;
+    height: 200px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 24px;
+}
+
+.cajaEnmedio{
+    width: 98%;
+    background-color: whitesmoke;
+    height: 400px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 24px;
+}
+
+/*Formulario de envios
+/*------------------------------------*/
+.FormularioEnvios, .Direccion, .Num, .Referencia, #domi, #dimen, #anch, #alt, #larg{
+    margin-bottom: 3%;
+    margin-left: 15px;
+}
+
+.FormularioEnvios{
+    border: 2px solid gray;
+}
+
+#dire2, #dimen{
+    border-top: 2px solid gray;
+}
+
+#dire1, #dire2, #dimen{
+    margin-bottom: 10px;
+    border-bottom: 2px solid gray;
+}
+
+
+
+#direccionenvio{
+    width: 80%;
+    border-bottom: gray;
+    background:none;
+    outline:none;
+    resize:none;
+    border:0;
+    border-bottom:2px solid #bebed2;
+}
+
+
+#numerocasa{
+    width: 15%;
+    border-bottom: gray;
+    background:none;
+    outline:none;
+    resize:none;
+    border:0;
+    border-bottom:2px solid #bebed2;
+}
+
+
+
+#colonia{
+    margin-left:   12px;
+    width: 40%;
+    border-bottom: gray;
+    background:none;
+    outline:none;
+    resize:none;
+    border:0;
+    border-bottom:2px solid #bebed2;
+}
+
+#cod{
+    color: black;
+    margin-left: 11%;
+}
+
+#codigopostal{
+    width: 10%;
+    border-bottom: gray;
+    background:none;
+    outline:none;
+    resize:none;
+    border:0;
+    border-bottom:2px solid #bebed2;
+}
+
+#ancho, #alto, #largo{
+    width: 10%;
+    border-bottom: gray;
+    background:none;
+    outline:none;
+    resize:none;
+    border:0;
+    border-bottom:2px solid #bebed2;
+}
+
+#costo{
+    color: black;
+    margin-left: 25%;
+}
+
+
+#costoPrecio{
+    color: green;
+    margin-left: 5%;
+}
+
+#Guia{
+    padding:8px 12px;
+    font-family:'Montserrat',sans-serif;border:2px solid #78788c;
+    background: white;
+    color:#5a5a6e;
+    cursor:pointer;
+    margin-top: 5%;
+    margin-left: 25%;
+}
+
+#Guia:hover{
+    background: green;
+    color:#fff;
+    
+}
+
+/*------------------------------------*/
+
+/*Abajo*/
+/*------------------------------------*/
+#footer{
+    width: 100%;
+    height: 100px;
+    background-color: whitesmoke;
+   
+
+    border-top: 1px solid black;
+
+
+    
+    
+}
+/*------------------------------------*/
+
+
+

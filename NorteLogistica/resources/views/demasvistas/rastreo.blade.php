@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Puntos de Entrega</title>
+    <link rel="stylesheet" href="{{ asset('/estilos/Estilos_Rastreo.css') }}">
+</head>
+<body>
+<!--Titulo-->
+        
+    <div id="header">
+        <div class=cajatitulo>
+            <a href="../index.html">NorteLogistica</a>
+        </div>
+
+        <div class="inicioS">
+            <label id="iniciosesion">
+                <a href="./html/Ingresar.html">Iniciar Sesion</a>
+            </label>
+        </div>
+    </div>
+    <!--Lista de cosas-->
+    <div id="header2">    
+                    
+        <ul id="MenuBurger">
+            
+            <li>
+                <a href="./SobreNosotros.html">Sobre Nosotros</a>
+            </li>
+            <li>
+                <a>Tipos de servicios</a>
+                <ul>
+                    <li><a href="./Envios.html">Envios</a></li>
+                    
+                </ul>
+            </li>
+            <li><a href="./Rastreo.html">Rastreo</a></li>
+            <li>
+                <a href="./Contactanos.html">Contactanos</a>
+            </li>
+            <li>
+                <a>Puntos de entrega</a>
+            </li>
+        </ul>
+    </div>
+    <!--Todo el cuerpo de la pagina-->
+    
+        
+    <div id="central">
+            
+        
+        <!--Izquierda--> 
+        <div id="nav"></div>
+
+        <!--En medio--> 
+        <div id="section">
+            
+            <div class=cajaArriba>
+                <!--Mapa de Ubicacion-->
+                <div>
+                    <div id="Maps">
+                        <iframe width="100%" height="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3440.8691691297877!2d-107.91341068543326!3d30.41145360809754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86dcad00b571ea3b%3A0x7d024d3c42ed2d5d!2sEstafeta!5e0!3m2!1ses-419!2smx!4v1637781067149!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class=cajaEnmedio></div>
+            <div class=cajaAbajo></div>
+            
+        </div>
+        
+        <!--Derecha-->
+        <div id="aside"></div>
+
+        
+    </div>
+    
+    
+    <div id="footer"></div>
+        
+        
+</body>
+</html>
+
+
+
