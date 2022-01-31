@@ -19,7 +19,7 @@
             <input type="password" size="5" maxlength="15">
         </p>
         <button id="Registro">Registar</button>
-        <a href="../index.html">
+        <a href="/principal">
             <label id="Volver">Volver</label>
         </a>
         <div>

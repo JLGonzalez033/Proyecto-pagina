@@ -29,7 +29,7 @@
 
         <div class="inicioS">
             <label id="iniciosesion">
-             <a href="./html/Ingresar.html">Iniciar Sesion</a> 
+             <a href="/ingresar">Iniciar Sesion</a> 
             </label>
         </div>
         
@@ -40,22 +40,22 @@
                     
         <ul id="MenuBurger">
             <li>
-                <a href="./html/SobreNosotros.html">Sobre Nosotros</a>
+                <a href="/sobrenosotros">Sobre Nosotros</a>
             </li>
              <li>
                 <a>Tipos de servicios</a>
                 <ul>
-                    <li><a href="./html/Envios.html">Envios</a></li>
+                    <li><a href="/envios">Envios</a></li>
                 </ul>
             </li>
             <li>
-                <a href="./html/Rastreo.html">Rastreo</a>
+                <a href="/rastreo">Rastreo</a>
             </li>
             <li>
-                <a href="./html/Contactanos.html">Contactanos</a>
+                <a href="/contactanos">Contactanos</a>
             </li>
             <li>
-                <a href="./html/PuntosDeEntrega.html">Puntos de entrega</a>
+                <a href="/puntosdeentrega">Puntos de entrega</a>
             </li>
         </ul>
     </div>
@@ -90,7 +90,7 @@
                     -->
                       <p>
                             <label id="boton">
-                                <a href="./html/Rastreo.html">Rastrear</a>
+                                <a href="/rastreo">Rastrear</a>
                             </label>
                       </p>
                     </form>

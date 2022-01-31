@@ -16,13 +16,13 @@
         <p type="Correo Electronico:"><input placeholder="ejemplo@hotmail.com"></input></p>
         <p type="Contraseña:"><input type="password"></input></p>
         <button id="Inicio">Ingresar</button>
-        <a href="../index.html">
+        <a href="/principal">
             <label id="Volver">Volver</label>
         </a>
         <div>
             <label>wwww.NorteLogistica.com</label>
             <label id="registrarse">
-                <a href="./Registrarse.html">Registrate</a>
+                <a href="/registrarse">Registrate</a>
             </label>
         </div>
     </form>

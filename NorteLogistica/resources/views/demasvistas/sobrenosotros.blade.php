@@ -12,12 +12,12 @@
    
     <div id="header">
         <div class=cajatitulo>
-            <a href="../index.html">NorteLogistica</a>
+            <a href="/principal">NorteLogistica</a>
         </div>
 
         <div class="inicioS">
             <label id="iniciosesion">
-                <a href="./html/Ingresar.html">Iniciar Sesion</a>
+                <a href="/ingresar">Iniciar Sesion</a>
             </label>
         </div>
     </div>
@@ -39,17 +39,17 @@
             <li>
                 <a>Tipos de servicios</a>
                 <ul>
-                    <li><a href="./Envios.html">Envios</a></li>
+                    <li><a href="/envios">Envios</a></li>
                     <!--<li><a href="./Devoluciones.html">Devoluciones</a></li>-->
                     
                 </ul>
             </li>
-            <li><a href="./Rastreo.html">Rastreo</a></li>
+            <li><a href="/rastreo">Rastreo</a></li>
             <li>
-                <a href="./Contactanos.html">Contactanos</a>
+                <a href="/contactanos">Contactanos</a>
             </li>
             <li>
-                <a href="./PuntosDeEntrega.html">Puntos de entrega</a>
+                <a href="/puntosdeentrega">Puntos de entrega</a>
             </li>
         </ul>
     </div>
