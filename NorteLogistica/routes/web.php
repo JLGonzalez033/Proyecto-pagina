@@ -13,13 +13,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () { return view('principal'); });
+Route::get('/principal', function () { return view('principal'); });
 Route::get('/admin', function () { return view('admin.administrador'); });
+Route::get('/contactanos', function () { return view('demasvistas.contactanos'); });
+Route::get('/devoluciones', function () { return view('devoluciones'); });
+Route::get('/envios', function () { return view('demasvistas.envios'); });
+Route::get('/ingresar', function () { return view('demasvistas.ingresar'); });
+Route::get('/puntosdeentrega', function () { return view('demasvistas.puntosdeentrega'); });
+Route::get('/rastreo', function () { return view('demasvistas.rastreo'); });
+Route::get('/registrarse', function () { return view('demasvistas.registrarse'); });
+Route::get('/sobrenosotros', function () { return view('demasvistas.sobrenosotros'); });
 
 
-
-Route::get('/contacto', function () {return view('contacto');});
-Route::get('/envios', function () {return view('envios');});
-Route::get('/puntos-entrega', function () {return view('puntos-entrega');});
-Route::get('/rastreo', function () {return view('rastreo');});
-Route::get('/nosotros', function () {return view('nosotros');});
