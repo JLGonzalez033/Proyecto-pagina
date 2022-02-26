@@ -15,3 +15,11 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () { return view('principal'); });
 Route::get('/admin', function () { return view('admin.administrador'); });
+
+
+
+Route::get('/contacto', function () {return view('contacto');});
+Route::get('/envios', function () {return view('envios');});
+Route::get('/puntos-entrega', function () {return view('puntos-entrega');});
+Route::get('/rastreo', function () {return view('rastreo');});
+Route::get('/nosotros', function () {return view('nosotros');});

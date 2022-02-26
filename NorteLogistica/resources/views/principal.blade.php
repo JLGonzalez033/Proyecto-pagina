@@ -1,120 +1,103 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NorteLogistica</title>
+@include('layouts.link')
 
-    <!--Se importan los estilos de css-->
-    <link rel="stylesheet" href="{{ asset('/estilos/Index.css') }}">
+     <!-- navbar-->
+     @include('layouts.navbar')
+     <!-- fin navbar-->
 
-    <!--Se importan los estilos de bootstrap css-->
-    <link rel="stylesheet" href="{{ asset('/bootstrap/css/bootstrap.min.css') }}">
+     <!-- header-->
+     @include('layouts.header')
+     <!-- fin header-->
 
-
-</head>
-<body>
-<!--Se importan los script de bootstrap -->
-<script src="{{ asset('/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
-<!--Titulo-->
-   
-    <div id="header">
-        <div class=cajatitulo >
-        <img src="{{asset('/imagenes/nortelogisticapeque.png')}}" >
-        </div>
-
-
-        
-
-        <div class="inicioS">
-            <label id="iniciosesion">
-             <a href="./html/Ingresar.html">Iniciar Sesion</a> 
-            </label>
-        </div>
-        
-    </div>
-
-<!--Lista de cosas-->
-    <div id="header2">    
-                    
-        <ul id="MenuBurger">
-            <li>
-                <a href="./html/SobreNosotros.html">Sobre Nosotros</a>
-            </li>
-             <li>
-                <a>Tipos de servicios</a>
-                <ul>
-                    <li><a href="./html/Envios.html">Envios</a></li>
-                </ul>
-            </li>
-            <li>
-                <a href="./html/Rastreo.html">Rastreo</a>
-            </li>
-            <li>
-                <a href="./html/Contactanos.html">Contactanos</a>
-            </li>
-            <li>
-                <a href="./html/PuntosDeEntrega.html">Puntos de entrega</a>
-            </li>
-        </ul>
-    </div>
 <!--Todo el cuerpo de la pagina-->
 
-    
-    <div id="central">
-         
-        
-        <!--Izquierda--> 
-        <div id="nav"></div>
 
-        <!--En medio--> 
-        <div id="section">
-            
-            <div class=cajaArriba></div>
+<section>
 
-            <div class=cajaEnmedio>
-            <div class="wrapper">
-                    <a>Rastrea tu Paquete!</a>
-                    <form action="">
-                      <p>
-                        <label for="">Numero de guia</label>
-                        <input type="text">
-                      </p>
-                     <!--Codigo para subir archivos-->
-                    <!--
-                      <p class="input-file-wrapper">
-                        <label for="upload">Upload your photo</label>
-                        <input type="file" name="" id="upload">
-                      </p>
-                    -->
-                      <p>
-                            <label id="boton">
-                                <a href="./html/Rastreo.html">Rastrear</a>
-                            </label>
-                      </p>
-                    </form>
-                  </div>
+    <div class="bg-fondo-1" style="width:100%; height:200px;"></div>
 
+
+    <div class="bg-light" >
+
+        <h1 class="text-center fw-bold fadeInTop">Nuestros Servicios</h1>
+
+        <div class="row py-5 my-5">
+
+            <div class="col-1"></div>
+
+
+            <div class="col-3 bg-azul p-5">
+                <h1 class="fadeInLeft"><a class="text-decoration-none text-white"href="{{asset('/envios')}}">Envios</a><i class="text-white ps-5 bi bi-box-seam"></i></h1>
             </div>
 
-            <div class=cajaAbajo>
-             
+
+            <div class="col"></div>
+
+
+            <div class="col-3 bg-azul p-5">
+                <h1 class="fadeInLeft"><a class="text-decoration-none text-white"href="{{asset('/rastreo')}}">Rastreo</a><i class="text-white ps-5 bi bi-wifi"></i></h1>
             </div>
-            
+
+
+            <div class="col"></div>
+
+
+            <div class="col-3 bg-azul p-5">
+                <h1 class="fadeInLeft"><a class="text-decoration-none text-white"href="{{asset('/puntos-entrega')}}">Puntos de Entrega</a><i class="text-white ps-2 bi bi-geo-alt-fill"></i></h1>
+            </div>
+
+
+            <div class="col-1"></div>
+
         </div>
-        
-        <!--Derecha-->
-        <div id="aside"></div>
 
-        
+
+
+
+
+
+
     </div>
 
+    <div class="bg-fondo-1" style="width:100%; height:200px;"></div>
 
-    <div id="footer">
-        Derechos reservados S.A de C.V & JCDebugers
+</section>
+
+
+<section class="bg-map">
+    <div class="row" style="height:750px;">
+        <h1 class="text-white fw-bold text-center pt-5">Politicas de Seguridad</h1>
+        <div class="col">
+            <h1 class="text-center text-white fw-bold">Responsabilidad</h1>
+            <p class="text-justify pt-3 px-4 text-white fs-4 fw-bold">Con un equipo de colaboradores continuamente capacitados y enfocados en el cumplimiento de los objetivos de calidad y seguridad.</p>
+        </div>
+        <div class="col">
+            <h1 class="text-center text-white fw-bold">Seguridad</h1>
+            <p class="text-justify pt-3 px-4 text-white fs-4 fw-bold">Mediante procesos orientados a prevenir y reconocer amenazas, preservando la seguridad en beneficio de los miembros de la organización y nuestros clientes</p>
+                    
+        </div>
+        <div class="col">
+            <h1 class="text-center text-white fw-bold">Rapidez</h1>
+            <p class="text-justify pt-3 px-4 text-white fs-4 fw-bold">Gracias a nuestro sistema podemos seguir adelante con eficacia y compromiso</p>
+                 
+        </div>
+
     </div>
+
+</section>
+
     
+
+    <!--Footer-->
+    @include('layouts.footer')
+    <!--Fin Footer-->
+
+
     
-</body>
-</html>
+
+
+
+
+
+
+
+@include('layouts.end')
