@@ -9,7 +9,7 @@
               <p class="  "><a href=""></a></p>
             </div>
             <div class="col-12 col-lg-4 pe-5 pt-1">
-              <p class="text-end fw-bold "><a class="text-white text-decoration-none" href="{{asset('/log-in')}}">Iniciar Session</a></p>
+              <p class="text-end fw-bold "><a class="text-white text-decoration-none" href="{{asset('/login')}}">Iniciar Session</a></p>
             </div>
 
 

@@ -23,3 +23,5 @@ Route::get('/envios', function () {return view('envios');});
 Route::get('/puntos-entrega', function () {return view('puntos-entrega');});
 Route::get('/rastreo', function () {return view('rastreo');});
 Route::get('/nosotros', function () {return view('nosotros');});
+Route::get('/login', function () {return view('login');});
+
